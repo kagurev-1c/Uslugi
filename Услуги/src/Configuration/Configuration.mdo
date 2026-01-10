@@ -3,7 +3,7 @@
   <name>Услуги</name>
   <synonym>
     <key>ru</key>
-    <value>Услуги</value>
+    <value>Бытовые услуги</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="716a8043-db7f-4eee-9c40-2d9e05474c3a"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="5aabecd4-3e20-4e91-94ac-479e26ae95fb"/>
@@ -39,4 +39,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Бухгалтерия</subsystems>
+  <subsystems>Subsystem.ОказаниеУслуг</subsystems>
+  <subsystems>Subsystem.Предприятие</subsystems>
+  <subsystems>Subsystem.РасчетЗарплаты</subsystems>
+  <subsystems>Subsystem.УчетМатериалов</subsystems>
 </mdclass:Configuration>
