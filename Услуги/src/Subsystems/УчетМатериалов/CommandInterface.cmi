@@ -13,5 +13,20 @@
         <common>true</common>
       </visible>
     </visibilityFragments>
+    <visibilityFragments>
+      <command>Document.ПриходнаяНакладная.StandardCommand.Create</command>
+      <visible>
+        <common>true</common>
+      </visible>
+    </visibilityFragments>
   </commandsVisibility>
+  <commandsOrder>
+    <orderFragments>
+      <group>ActionsPanelCreate</group>
+      <commands>Catalog.Номенклатура.StandardCommand.Create</commands>
+      <commands>Catalog.Номенклатура.StandardCommand.CreateFolder</commands>
+      <commands>Catalog.Склады.StandardCommand.Create</commands>
+      <commands>Document.ПриходнаяНакладная.StandardCommand.Create</commands>
+    </orderFragments>
+  </commandsOrder>
 </cmi:CommandInterface>

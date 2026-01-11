@@ -53,4 +53,5 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <documents>Document.ПриходнаяНакладная</documents>
 </mdclass:Configuration>
